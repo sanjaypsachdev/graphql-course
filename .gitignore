@@ -3,3 +3,9 @@ graphql-basics/node_modules
 graphql-basics/yarn-error.log
 
 graphql-basics/yarn.lock
+
+graphql-prisma/node_modules
+
+graphql-prisma/yarn-error.log
+
+graphql-prisma/yarn.lock
